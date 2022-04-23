@@ -115,15 +115,5 @@ Xiaolong was awarded SEG &lt;a href="https://seg.org/Education/Student/Student-O
 &lt;ul>
 &lt;li>&lt;strong>04/27&lt;/strong>:
 Xiaolong successfully defended his doctoral thesis proposal.&lt;/li>
-&lt;/ul></description></item><item><title>Research</title><link>https://xiaolongw1223.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xiaolongw1223.github.io/research/</guid><description/></item><item><title>Resources</title><link>https://xiaolongw1223.github.io/resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xiaolongw1223.github.io/resource/</guid><description>&lt;h3 id="software">Software&lt;/h3>
-&lt;p>
-&lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> &lt;a href="https://seisman.github.io/HinetPy/" target="_blank" rel="noopener">HinetPy&lt;/a>: A python package to request and process seismic waveform data from &lt;a href="http://www.hinet.bosai.go.jp/" target="_blank" rel="noopener">Hi-net&lt;/a>&lt;/p>
-&lt;h3 id="manuals">Manuals&lt;/h3>
-&lt;p>
-&lt;i class="fas fa-book pr-1 fa-fw">&lt;/i> &lt;a href="https://seisman.github.io/SAC_Docs_zh/" target="_blank" rel="noopener">SAC Reference Manual&lt;/a> (&lt;em>in Chinese&lt;/em>) &lt;/br>
-&lt;i class="fas fa-book pr-1 fa-fw">&lt;/i> &lt;a href="https://docs.gmt-china.org/" target="_blank" rel="noopener">GMT Reference Manual&lt;/a> (&lt;em>in Chinese&lt;/em>) &lt;/br>&lt;/p>
-&lt;h3 id="websites">Websites&lt;/h3>
-&lt;p>
-&lt;i class="fas fa-globe pr-1 fa-fw">&lt;/i> &lt;a href="https://blog.seisman.info/" target="_blank" rel="noopener">SeisMan Blog&lt;/a>: My personal academic blog (&lt;em>in Chinese&lt;/em>) &lt;/br>
-&lt;i class="fas fa-globe pr-1 fa-fw">&lt;/i> &lt;a href="https://gmt-china.org/" target="_blank" rel="noopener">GMT Chinese Community&lt;/a> (&lt;em>in Chinese&lt;/em>) &lt;/br>
-&lt;i class="fas fa-link pr-1 fa-fw">&lt;/i> &lt;a href="https://link.seisman.info/" target="_blank" rel="noopener">SeisLinks&lt;/a>: Collection of useful sites for geoscience researches&lt;/p></description></item></channel></rss>
+&lt;/ul></description></item><item><title>Research</title><link>https://xiaolongw1223.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xiaolongw1223.github.io/research/</guid><description/></item><item><title>Resources</title><link>https://xiaolongw1223.github.io/resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xiaolongw1223.github.io/resource/</guid><description>&lt;!-- ### Software
+&lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> [HinetPy](https://seisman.github.io/HinetPy/): A python package to request and process seismic waveform data from [Hi-net](http://www.hinet.bosai.go.jp/) --></description></item></channel></rss>
