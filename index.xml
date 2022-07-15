@@ -177,13 +177,15 @@ Xiaolong was awarded SEG &lt;a href="https://seg.org/Education/Student/Student-O
 Xiaolong successfully defended his doctoral thesis proposal!&lt;/li>
 &lt;/ul></description></item><item><title>Research</title><link>https://xiaolongw1223.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xiaolongw1223.github.io/research/</guid><description/></item><item><title>Resources</title><link>https://xiaolongw1223.github.io/resource/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xiaolongw1223.github.io/resource/</guid><description>&lt;h3 id="open-code">Open code&lt;/h3>
 &lt;p>
+&lt;i class="fab fa-fa-github pr-1 fa-fw">&lt;/i> Find my code in &lt;a href="https://github.com/xiaolongw1223/Code-publications" target="_blank" rel="noopener">GitHub&lt;/a>.&lt;/p>
+&lt;p>
 &lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Joint inversion of gravity gradient and magnetic data using mixed Lp norm regularization. &lt;a href="https://zenodo.org/record/5774303#.YmQ2yPPMJTY" target="_blank" rel="noopener">Code&lt;/a>, &lt;a href="">Paper&lt;/a>&lt;/p>
 &lt;p>
 &lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Interactive geology differentiation and 3D visualization of geological units. &lt;a href="https://zenodo.org/record/5774309#.YmQ3r_PMJTY" target="_blank" rel="noopener">Code&lt;/a>, &lt;a href="">Paper1&lt;/a>, &lt;a href="">Paper2&lt;/a>&lt;/p>
 &lt;p>
 &lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Uncertainty analysis of 3D potential-field deterministic inversion using mixed L p norms. &lt;a href="https://github.com/xiaolongw1223/Code-publications/tree/main/2021-Wei-and-Sun-GEOPHYSICS-uncertainty" target="_blank" rel="noopener">Code&lt;/a>, &lt;a href="https://library.seg.org/doi/abs/10.1190/geo2020-0672.1" target="_blank" rel="noopener">Paper&lt;/a>&lt;/p>
 &lt;p>
-&lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Solving the bound dependence and staircasing problems in 3D potential-field sparse inversions using a mixed Lp-norm regularization. &lt;a href="https://zenodo.org/record/4057134#.YmQ36_PMJTY" target="_blank" rel="noopener">Code&lt;/a>, &lt;a href="https://github.com/xiaolongw1223/Code-publications/tree/main/2020-Sun-and-Wei-GP-sparse-recovering" target="_blank" rel="noopener">GitHub&lt;/a>, &lt;a href="https://www.earthdoc.org/content/journals/10.1111/1365-2478.13063" target="_blank" rel="noopener">Paper&lt;/a>&lt;/p>
+&lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Solving the bound dependence and staircasing problems in 3D potential-field sparse inversions using a mixed Lp-norm regularization. &lt;a href="https://zenodo.org/record/4057134#.YmQ36_PMJTY" target="_blank" rel="noopener">Code&lt;/a>, &lt;a href="https://www.earthdoc.org/content/journals/10.1111/1365-2478.13063" target="_blank" rel="noopener">Paper&lt;/a>&lt;/p>
 &lt;h3 id="synthetic-models">Synthetic models&lt;/h3>
 &lt;p>
 &lt;i class="fas fa-book pr-1 fa-fw">&lt;/i> Horseshoe shaped realistic &lt;a href="https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_dens" target="_blank" rel="noopener">density&lt;/a> and &lt;a href="https://github.com/xiaolongw1223/synthetic-models/tree/master/horseshoe_susc" target="_blank" rel="noopener">susceptibility&lt;/a> models. &lt;a href="https://library.seg.org/doi/abs/10.1190/geo2020-0672.1" target="_blank" rel="noopener">Paper&lt;/a>&lt;/p>
