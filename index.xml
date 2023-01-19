@@ -44,7 +44,7 @@
 &lt;hr>
 &lt;h3 id="im">I&amp;rsquo;m&lt;/h3>
 &lt;ul>
-&lt;li>A Ph.D. student at University of Houston&lt;/li>
+&lt;li>A postdoctoral research fellow at Stanford University&lt;/li>
 &lt;li>A Chinese geophysicist and geoscience enthusiast&lt;/li>
 &lt;li>A proud father, amateur photographer, reader, &amp;hellip;&lt;/li>
 &lt;li>Inquisitive, conscientious, cooperative, convivial, &amp;hellip;&lt;/li>
@@ -52,7 +52,7 @@
 &lt;hr>
 &lt;h3 id="education">Education&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>Present&lt;/strong>: Ph.D. in Geophysics,
+&lt;li>&lt;strong>2022&lt;/strong>: Ph.D. in Geophysics,
 &lt;a href="https://uh.edu/nsm/earth-atmospheric/" target="_blank" rel="noopener">University of Houston&lt;/a>, Houston, USA&lt;/li>
 &lt;li>&lt;strong>2018&lt;/strong>: M.S. in Geology,
 &lt;a href="https://www.nwu.edu.cn/" target="_blank" rel="noopener">Northwest University&lt;/a>, Xi&amp;rsquo;an, China&lt;/li>
@@ -62,8 +62,14 @@
 &lt;hr>
 &lt;h3 id="professional-appointments">Professional Appointments&lt;/h3>
 &lt;ul>
-&lt;li>&lt;strong>2018/08–present&lt;/strong>: Research Assistant,
-&lt;a href="https://uh.edu/nsm/earth-atmospheric/" target="_blank" rel="noopener">University of Houston&lt;/a>, Houston, USA&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>2023/01–present&lt;/strong>: Postdoctoral Research Fellow,
+&lt;a href="https://sustainability.stanford.edu/" target="_blank" rel="noopener">Stanford University&lt;/a>, Stanford, USA&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>2018/08–2022/12&lt;/strong>: Research Assistant,
+&lt;a href="https://uh.edu/nsm/earth-atmospheric/" target="_blank" rel="noopener">University of Houston&lt;/a>, Houston, USA&lt;/p>
+&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h3 id="grants">Grants&lt;/h3>
@@ -74,6 +80,7 @@
 &lt;h3 id="awards--honors">Awards &amp;amp; Honors&lt;/h3>
 &lt;h4 id="university-of-houston">University of Houston&lt;/h4>
 &lt;ul>
+&lt;li>&lt;strong>2022:&lt;/strong> &lt;a href="https://uh.edu/nsm/earth-atmospheric/news-events/stories/2022/1219-dissertation-award.php" target="_blank" rel="noopener">Dan E. Wells Outstanding Dissertation Award&lt;/a>&lt;/li>
 &lt;li>&lt;strong>2022:&lt;/strong> Outstanding Graduate Work in Geophysics ($1,250)&lt;/li>
 &lt;li>&lt;strong>2021:&lt;/strong> Student Travel Award ($1,000)&lt;/li>
 &lt;li>&lt;strong>2020-2021:&lt;/strong> Outstanding Academic Achievement ($700*2)&lt;/li>
@@ -98,8 +105,9 @@
 &lt;h3 id="professional-service--outreach">Professional Service &amp;amp; Outreach&lt;/h3>
 &lt;h4 id="peer-reviewer">Peer Reviewer&lt;/h4>
 &lt;ul>
+&lt;li>&lt;strong>2023-present&lt;/strong>: &lt;a href="https://onlinelibrary.wiley.com/journal/13652478" target="_blank" rel="noopener">Geophysical Prospecting&lt;/a>&lt;sup>1&lt;/sup>&lt;/li>
 &lt;li>&lt;strong>2022-present&lt;/strong>: &lt;a href="https://www.tandfonline.com/journals/tgei20" target="_blank" rel="noopener">Geocarto International&lt;/a>&lt;sup>1&lt;/sup> and &lt;a href="https://seg.org/" target="_blank" rel="noopener">SEG Conference Proceeding&lt;/a>&lt;sup>1&lt;/sup>&lt;/li>
-&lt;li>&lt;strong>2021-present&lt;/strong>: &lt;a href="https://library.seg.org/journal/gpysa7" target="_blank" rel="noopener">Geophysics&lt;/a>&lt;sup>3&lt;/sup>, &lt;a href="https://academic.oup.com/gji" target="_blank" rel="noopener">Geophysical Journal International&lt;/a>&lt;sup>1&lt;/sup>, &lt;a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36" target="_blank" rel="noopener">IEEE Transactions on Geoscience and Remote Sensing&lt;/a>&lt;sup>13&lt;/sup> and &lt;a href="https://www.springer.com/journal/11600" target="_blank" rel="noopener">Acta Geophysica&lt;/a>&lt;sup>3&lt;/sup>&lt;/li>
+&lt;li>&lt;strong>2021-present&lt;/strong>: &lt;a href="https://library.seg.org/journal/gpysa7" target="_blank" rel="noopener">Geophysics&lt;/a>&lt;sup>6&lt;/sup>, &lt;a href="https://academic.oup.com/gji" target="_blank" rel="noopener">Geophysical Journal International&lt;/a>&lt;sup>1&lt;/sup>, &lt;a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36" target="_blank" rel="noopener">IEEE Transactions on Geoscience and Remote Sensing&lt;/a>&lt;sup>17&lt;/sup> and &lt;a href="https://www.springer.com/journal/11600" target="_blank" rel="noopener">Acta Geophysica&lt;/a>&lt;sup>3&lt;/sup>&lt;/li>
 &lt;/ul>
 &lt;h4 id="conference-session-chair">Conference Session Chair&lt;/h4>
 &lt;ul>
@@ -134,6 +142,14 @@ Build probabilistic quasi-geology models based on multiple airborne geophysical 
 &lt;p>&lt;strong>09/09, SimPEG Monthly Seminar, Online:&lt;/strong>
 From deterministic to probabilistic geoscience modeling: analyzing uncertainties of geophysical inversions and constructing probabilistic subsurface models conditioned on petrophysical measurements&lt;/p></description></item><item><title>News</title><link>https://xiaolongw1223.github.io/news/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xiaolongw1223.github.io/news/</guid><description>&lt;h3 id="2022">2022&lt;/h3>
 &lt;ul>
+&lt;li>
+&lt;p>&lt;strong>12/22&lt;/strong>:
+Xiaolong won the Fall 2022 &lt;a href="https://uh.edu/nsm/earth-atmospheric/news-events/stories/2022/1219-dissertation-award.php" target="_blank" rel="noopener">Dan E. Wells Outstanding Dissertation Award&lt;/a>! The recipient receives an award of $1,000 and is recognized at the Commencement ceremony.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>10/22&lt;/strong>:
+Xiaolong successfully defended his Ph.D. dissertation!!!&lt;/p>
+&lt;/li>
 &lt;li>
 &lt;p>&lt;strong>07/22&lt;/strong>:
 Xiaolong&amp;rsquo;s &lt;a href="https://library.seg.org/doi/abs/10.1190/geo2021-0833.1" target="_blank" rel="noopener">paper&lt;/a> was nominated by GEOPHYSICS editors to be highlighted in “Geophysics Bright Spots” in The Leading Edge!&lt;/p>
